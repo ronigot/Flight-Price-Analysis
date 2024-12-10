@@ -3,7 +3,9 @@
 
 **Submitting Students:** Roni Gotlib & Hallel Weinberg.
 ## Overview
-We worked with a dataset containing flight data. We trained a basic pipeline model that predicts flight prices.
+We worked with a [dataset containing flight data](data/flight_data.csv). We trained a basic pipeline model that predicts flight prices.
+
+You can see our work in [the notebook](TDS__Project.ipynb).
 
 ![plot](https://github.com/user-attachments/assets/bebc96b5-eede-48c6-bd0f-8716458bd2ff)
 
