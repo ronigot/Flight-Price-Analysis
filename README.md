@@ -16,6 +16,6 @@ Please note that we have made a slight change to the original Kaggle dataset. In
 
 Our consideration for acting this way was that the data already contains the departure date, the flight duration and the arrival time, from which, if necessary, the arrival date can be calculated manually.
 
-[This is our dataset after the changes.](data/flight_data.csv)
+This is [our dataset](data/flight_data.csv) after the changes.
 
 ![image](https://github.com/user-attachments/assets/6b999459-30d8-4c75-9de0-00d6d5e655d5)
