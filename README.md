@@ -15,6 +15,12 @@ You can find our work in [the notebook](first_part.ipynb).
 ### Part 2
 You can find our work in [the notebook](second_part.ipynb).
 
+![plot2](https://github.com/user-attachments/assets/38804b62-b3cd-4e49-9d80-c9335c98045d)
+
+### Basic Model vs Improvement Model
+
+![plot3](https://github.com/user-attachments/assets/e52bbcd1-3e3c-46cc-b0ee-3b1250796339)
+
 ## Dataset
 https://www.kaggle.com/datasets/jillanisofttech/flight-price-prediction-dataset
 
