@@ -5,9 +5,15 @@
 ## Overview
 We worked with a [dataset containing flight data](data/flight_data.csv). We trained a basic pipeline model that predicts flight prices.
 
-You can see our work in [the notebook](first_part.ipynb).
+### Part 1
+You can find our work in [the notebook](first_part.ipynb).
+* The partitioned data includes [X_train](basic_model/X_train_basic.csv), [X_test](basic_model/X_test_basic.csv), [y_train](basic_model/y_train_basic.csv) and [y_test](basic_model/y_test_basic.csv).
+* The model is available in [this file](basic_model/basic_model.json).
 
 ![plot](https://github.com/user-attachments/assets/bebc96b5-eede-48c6-bd0f-8716458bd2ff)
+
+### Part 2
+You can find our work in [the notebook](second_part.ipynb).
 
 ## Dataset
 https://www.kaggle.com/datasets/jillanisofttech/flight-price-prediction-dataset
