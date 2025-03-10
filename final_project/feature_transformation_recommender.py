@@ -1,3 +1,11 @@
+import pandas as pd
+import numpy as np
+from scipy import stats
+from sklearn.preprocessing import StandardScaler, MinMaxScaler, PowerTransformer, PolynomialFeatures, LabelEncoder, QuantileTransformer
+from sklearn.model_selection import cross_val_score
+from sklearn.linear_model import LinearRegression, LogisticRegression
+
+
 class FeatureTransformationRecommender:
     """
     An automated feature transformation recommender for tabular data.
