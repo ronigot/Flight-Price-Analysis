@@ -348,7 +348,6 @@ class FeatureTransformationRecommender:
 
         return X_transformed  # Return the transformed dataset
 
-
     def fit_transform(self, X: pd.DataFrame, y: pd.Series = None) -> pd.DataFrame:
         """
         Fit the transformation recommender to the input dataset and apply the selected transformations.
