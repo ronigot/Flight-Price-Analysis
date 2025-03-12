@@ -33,6 +33,10 @@ To install the required dependencies:
 pip install -r requirements.txt
 ```
 
+## [Source Code](./src)
+* [*Feature Transformation Recommender*](src/feature_transformation_recommender.py): Implements the core functionality of the feature transformation recommender system. The recommender system handles both regression and classification tasks.
+* [*Basic Evaluator*](src/basic_evaluator.py): Implements a basic evaluator class that compares feature distributions before and after transformation.
+
 ## [Jupyter Notebooks](./notebooks)
 
 * [*Demo Notebook*](notebooks/feature_transformation_demo.ipynb): Demonstrates a step-by-step usage of the recommender system.
