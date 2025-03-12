@@ -19,7 +19,7 @@ final_project/
 │   └── basic_evaluator.py                        # Evaluation metrics component
 │
 ├── notebooks/                # Jupyter notebooks for demonstration and experiments
-│   ├── demo.ipynb                                # Usage demonstration of the system
+│   ├── feature_transformation_demo.ipynb         # Usage demonstration of the system
 │   └── feature_recommender_experiments.ipynb     # System evaluation and performance comparisons
 │
 ├── report.pdf                # Detailed project report with methodology and results
