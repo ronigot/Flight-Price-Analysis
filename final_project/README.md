@@ -15,40 +15,27 @@ final_project/
 │
 ├── src/                      # Source code
 │   ├── __init__.py
-│   ├── feature_transformation_recommender.py    # Core recommender component
-│   └── basic_evaluator.py                       # Evaluation metrics component
+│   ├── feature_transformation_recommender.py     # Core recommender component
+│   └── basic_evaluator.py                        # Evaluation metrics component
 │
 ├── notebooks/                # Jupyter notebooks for demonstration and experiments
-│   ├── demo.ipynb            # Usage demonstration of the system
-│   └── experiments.ipynb     # System evaluation and performance comparisons
+│   ├── demo.ipynb                                # Usage demonstration of the system
+│   └── feature_recommender_experiments.ipynb     # System evaluation and performance comparisons
 │
 ├── report.pdf                # Detailed project report with methodology and results
 ├── README.md                 # This file
 └── requirements.txt          # Required dependencies
 ```
 
-## Requirements
+## [Requirements](requirements.txt)
 To install the required dependencies:
 ```bash
 pip install -r requirements.txt
 ```
 
-# Feature Transformation Recommender
+## [Jupyter Notebooks](./notebooks)
 
-## Overview
-This project is a tool designed to suggest feature transformations in order to improve model performance.
+* [*Demo Notebook*](notebooks/feature_transformation_demo.ipynb): Demonstrates a step-by-step usage of the recommender system.
+* [*Experiments Notebook*](notebooks/feature_recommender_experiments.ipynb): Contains system evaluation and performance comparisons based on multiple datasets.
 
-## Project Structure
-
-- [Report](report.pdf)
-- [requirements](requirements.txt)
-- **Source Code**:
-  - [feature_transformation_recommender.py](./src/feature_transformation_recommender.py): Implements the core functionality of the feature transformation recommender system. The recommender system handles both regression and classification tasks.
-  - [basic_evaluator.py](./src/basic_evaluator.py): Implements a basic evaluator class that compares feature distributions before and after transformation.
-  
-- **Notebooks**:
-  - [Feature Transformation Demo](./notebooks/feature_transformation_demo.ipynb): A demo notebook showing an example of how to use the feature transformation recommender system.
-  - [Feature Recommender Experiments](./notebooks/feature_recommender_experiments.ipynb): A comparison of the system’s performance on four different datasets.
-
-
-
+## [Report](report.pdf)
